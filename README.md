@@ -51,7 +51,9 @@
 <p align="center">
 <ul style="list-style-type: none;"> 
   <li>TryHackMe rooms</li>
-  <li>Information technology (networking, homelabbing)</li> 
+  <li>Information technology (networking, homelabbing)</li>
+  <li>Human-computer Interaction</li>
+  <li>Advanced data structures</li>
 </ul>
 </p>
 
