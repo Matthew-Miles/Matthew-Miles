@@ -40,7 +40,7 @@
 <h2 align="center">What I've been up to</h2>
 <p align="center">
 <ul style="list-style-type: none;"> 
-  <li>Creating a linux distro from scratch using [LFS](https://www.linuxfromscratch.org/lfs/)</li>
+  <li>Creating a linux distro from scratch using <a href="https://www.linuxfromscratch.org/lfs/">LFS</a></li>
   <li>Building a teaching assistant assignment web application</li> 
   <li>Building a AI smart agenda web application for DRC students</li>
   <li>Building a Gator Ticketing system that is backed by data structures such as red-black trees and binary min heaps </li>
